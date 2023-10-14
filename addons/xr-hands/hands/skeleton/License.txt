@@ -1,0 +1,28 @@
+	Skeleton Hands 3D Model
+
+	Original Author: https://opengameart.org/users/kevdev
+	Source: https://opengameart.org/content/skeleton-outlaw-3d-character
+			------------------------------
+
+	License: (Creative Commons Zero, CC0)
+	http://creativecommons.org/publicdomain/zero/1.0/
+
+	This content is free to use in personal, educational and commercial projects.
+
+			------------------------------
+
+	Description:
+	Original Model was done by the Original Author - kevdev
+	It was further seperated/ rigged and edited inside Blender 3D
+	by DigitalN8m4r3
+
+			------------------------------
+
+	Author: DigitalN8m4r3 aka Miodrag Sejic
+	https://www.digitalnightmare.eu/en/privacy.html
+	Release Date: October 2023
+
+			------------------------------
+
+	Follow on Twitter for updates:
+	https://twitter.com/DigitalN8m4r3
